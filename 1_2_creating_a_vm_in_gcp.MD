@@ -6,7 +6,7 @@ This book provides an introduction to the Google Cloud Platform (GCP). We will c
 
 ### Docker
 
-Using Docker is a necessary component of completing this tutorial. The most user friendly way to achieve this is by using the Docker Desktop application. Unfortunately due to Docker Desktop requiring certain versions of Windows operating systems, using Docker Desktop may not be feasible for everybody. A way to circumvent this issue is by running Docker via a virtual machine and installing a Linux operating system. This method can be quite intensive on a machines resources, having to essentially store and run two operating systems at the same time, as well as require the installation of additional software. 
+Using Docker is a necessary component of completing this module. The most user friendly way to achieve this is by using the Docker Desktop application. Unfortunately due to Docker Desktop requiring certain versions of Windows operating systems, using Docker Desktop may not be feasible for everybody. A way to circumvent this issue is by running Docker via a virtual machine and installing a Linux operating system. This method can be quite intensive on a machines resources, having to essentially store and run two operating systems at the same time, as well as require the installation of additional software. 
 
 This provides us with a wonderful opportunity to utilise a virtual machine instance on the cloud, which we will do using GCP Compute Engine to launch a Linux virtual machine instance hosted on a Google server.
 

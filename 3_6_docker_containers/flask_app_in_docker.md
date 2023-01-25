@@ -1,4 +1,4 @@
-﻿# GCP Serverless Python Flask Web Application
+﻿# Running a Flask App in a Docker Container
 
 ### Introduction
 

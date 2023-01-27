@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    names = {1: "Mark", 2: "Liping", 3: "Jordan", 4: "Michael"}
+    names = {1: "Mark", 2: "Amir", 3: "Jordan", 4: "Michael"}
     name = names[randint(1, 4)]
     return f"{name} says Hello 👋"
 
